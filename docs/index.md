@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# 安泰指南
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+在这个策划中，我们计划汇集过去学长姐的经验，来给未来的学弟学妹提供一些帮助。
 
-## Commands
+帮助包括但不限于：
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* 如何选择一个喜欢且合适的发展方向？（学术 or 业界）
+* 如何正确地联系学长姐和老师来获取信息？
+* 应该选哪些课，这些课会带来哪些帮助?
+  ...
 
-## Project layout
+计划的产出：
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* 1个网站：汇集相关信息
+* 1份PDF：学长姐更个人向的经验分享
+
+如果你希望参加这个计划做出一些贡献，可以通过添加微信/邮箱来联系我们：
+
+* 微信：fyyffw；k2412440250
+* 邮箱：（申请个公共邮箱）
