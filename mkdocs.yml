@@ -2,7 +2,7 @@ site_name: Antai_Zhinan
 site_url: https://yfang0805.github.io/Antai_Zhinan/
 theme:
   # name: gitbook
-  name: material
+  name: mkdocs
 #   features:
 #     - navigation.tabs
 #     - navigation.sections
